@@ -1,0 +1,2 @@
+# pokrocile-programovani
+asi pojdu
